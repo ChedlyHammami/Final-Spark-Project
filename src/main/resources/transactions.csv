@@ -1,0 +1,13 @@
+customer_id,transaction_date,transaction_type,amount
+1001,2023-07-01,deposit,500.00
+1002,2023-07-01,withdrawal,100.00
+1003,2023-07-01,deposit,250.00
+1001,2023-07-02,withdrawal,50.00
+1002,2023-07-02,deposit,300.00
+1003,2023-07-02,deposit,1000.00
+1004,2023-07-02,withdrawal,200.00
+1001,2023-07-03,deposit,100.00
+1002,2023-07-03,withdrawal,150.00
+1009,2023-07-03,null,0
+1003,2023-07-03,deposit,400.00
+1004,2023-07-03,deposit,800.00
